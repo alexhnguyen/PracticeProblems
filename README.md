@@ -4,7 +4,7 @@ To test and improve my abilities, I am solving readily available practice proble
 
 ## [Project Euler](./euler)
 
-[Project Euler](https://projecteuler.net/about) are challenging problems in math and computer programming that require mathematical insight, 
+[Project Euler](https://projecteuler.net/about) has challenging problems in math and computer programming that require mathematical insight, 
 and computationally efficient solutions. 
 
 ## [Cracking the Coding Interview](./cracking_coding_interview)
